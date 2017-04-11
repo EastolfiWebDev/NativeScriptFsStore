@@ -1,0 +1,38 @@
+{
+  "name": "nativescript-fs-store",
+  "version": "0.0.1",
+  "description": "NativeScript File System Store for Mongo Portable",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EastolfiWebDev/NativeScriptFsStore.git"
+  },
+  "keywords": [
+    "mongo",
+    "portable",
+    "ddbb",
+    "no",
+    "sql",
+    "relational",
+    "store",
+    "node",
+    "nativescript",
+    "file",
+    "system",
+    "persistence"
+  ],
+  "author": "Eduardo Astolfi <eastolfi91@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EastolfiWebDev/NativeScriptFsStore/issues"
+  },
+  "homepage": "https://github.com/EastolfiWebDev/NativeScriptFsStore#readme",
+  "dependencies": {
+    "jsw-logger": "^1.2.3",
+    "lodash": "^4.17.4",
+    "promise": "^7.1.1"
+  }
+}
